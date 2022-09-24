@@ -1,0 +1,30 @@
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+
+.mx-auto{
+	margin: auto 160px;
+}
+
+.py-5{
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.bg-dark{
+	background-color: black !important;
+}
+.text-white{
+	color: white;
+}
